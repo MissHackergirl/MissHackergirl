@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MissHackergirl
+- 👋 Hi, I’m Henga aka @MissHackergirl
 - 👀 I’m interested in Cybersecurity, SOC, Penetesting and Ethical Hacking, Using tech  for a better world.
 - 🌱 I’m currently learning cybersecurity tools and frameworks
 - 💞️ I’m looking to collaborate on diverse projects
